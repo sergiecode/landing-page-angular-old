@@ -1,3 +1,5 @@
+# Pendiente de continuar (incompleta)
+
 # Landing page en Angular
 
  - Navegación
